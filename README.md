@@ -25,7 +25,7 @@ sudo apt-get update
 sudo apt-get install lynx curl jq bc
 
 # Clone repository
-git clone https://github.com/username/webmon-guardian.git
+git clone https://github.com/classyid/webmon-guardian.git
 cd webmon-guardian
 
 # Set permission
