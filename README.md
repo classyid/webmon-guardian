@@ -1,9 +1,3 @@
-# Nama Repository
-webmon-guardian
-
-# About Description
-🔍 WebMon Guardian - Tool monitoring website untuk deteksi konten berbahaya dan judi online. Dibuat dengan bash script, mendukung notifikasi Telegram & WhatsApp.
-
 # README.md
 # WebMon Guardian
 ### Sistem Monitoring Website Otomatis
